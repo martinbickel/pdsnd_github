@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+Date of creation: 08.06.2019
 
 ### Project Title
-Replace the Project Title
+Analysis of bikeshare
 
 ### Description
-Describe what your project is about and what it does
+goal of the project was to develop a tool to analyze the data of a bikesharing platform. As a data source three different .csv files were being used. The interactive program gives the user the possibility to filter by city month and year. The results are statistics in the given time.
 
 ### Files used
-Include the files used
+bikeshare_project.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+resources for solving the task:
+https://www.tutorialspoint.com/python/
+https://stackoverflow.com/
+udacity online course - program content
