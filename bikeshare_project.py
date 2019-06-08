@@ -22,7 +22,7 @@ def get_filters():
     month = ""
     day = ""
     while city not in CITY_DATA:
-        city = input("Please choose one of the cities (chicago, new york city or washington):  ").lower()
+        city = input("Please choose one of the following cities (chicago, new york city or washington):  ").lower()
         if city not in CITY_DATA:
             print("There must be a mistake in your choice.")
             continue
