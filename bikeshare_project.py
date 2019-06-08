@@ -11,7 +11,7 @@ def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
     Returns:
-        (str) city - name of the city to analyze
+        (str) city - name of the city to analyze (Washington, New York City, Chicago)
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
         (str) decision_filter - kin of filter method: only by month, only by day, or both
