@@ -188,6 +188,7 @@ def user_stats(df, city):
         print("The earliest, the most recent and the most common year of birth is {}, {} and {}.".format(earliest_byear,recent_byear, common_byear))
 
         print("\nThis took %s seconds." % (time.time() - start_time))
+        print("Wow that was pretty fast!")
         print('-'*40)
 
 def show_raw_data(df):
