@@ -17,4 +17,4 @@ washington.csv
 resources for solving the task:
 https://www.tutorialspoint.com/python/
 https://stackoverflow.com/
-udacity online course - program content
+udacity online course - program content for python and git
